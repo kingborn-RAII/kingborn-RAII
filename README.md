@@ -1,47 +1,59 @@
+# Eng. Diloko Le Roi
 
-<!--
-**kingborn-RAII/kingborn-RAII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robotics & AI Engineer** building practical robotics systems through mathematics, software, simulation, experimentation and research.
 
-Here are some ideas to get you started:
+## Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm kingborn!
+My work focuses on turning robotics theory into working implementations and reproducible experiments.
 
-## 👨‍💻 Profession
-**Robotic and AI Engineer**  
-Building smarter robots and intelligent systems for a better tomorrow.
+Current areas of interest include:
 
-## 🛠️ Top Skills & Technologies
-- 🐍 Python | Data Science & Automation
-- 🤖 Machine Learning | Deep Learning, Computer Vision, NLP
-- ⚙️ Mechatronics | Robotics Integration & Control
+- Robotics mathematics, kinematics and dynamics
+- Modeling and control
+- ROS 2 and robotic software
+- Simulation and autonomous systems
+- Perception, localization and navigation
+- Manipulation
+- AI for robotics
+- Research implementation and experimentation
 
-## 🚀 Favorite Projects
-- **Lead Generation SaaS:** Automated smart lead discovery for businesses
-- **Intelligent Water Quality Control System:** AI-powered monitoring for cleaner, safer water
+## Robotics_Lab
 
-## 🏆 Achievements & Certifications
-- Microsoft Office Specialist: Excel & PowerPoint
-- Python Developer Certification (freeCodeCamp)
+**Robotics_Lab** is my long-term robotics engineering and research project.
 
-## 🎮 Personal Interests & Hobbies
-- 🎮 Gaming (strategy, simulation, and AI-driven games)
-- 📚 Reading (tech books, novels, and AI trends)
-- 🛠️ DIY electronics and hardware tinkering
+The work follows a simulation-first engineering process:
 
-## 💡 Fun Fact / Motto
-> "Laziness boosts technological development."  
-If it can be automated, it should be!
+**Theory → Mathematics → Algorithm → Implementation → Simulation → Experiment → Analysis → Documentation**
+
+The objective is to develop strong practical capability while producing reproducible technical evidence and progressively more capable robotic systems.
+
+## Engineering
+
+**Languages & software:** Python, C++, MATLAB/Simulink
+
+**Robotics & simulation:** ROS 2, Gazebo, RViz, ros2_control, MoveIt 2, Nav2
+
+**AI & computer vision:** PyTorch, TensorFlow, scikit-learn, OpenCV
+
+**Engineering & infrastructure:** Git, Docker, FastAPI, PostgreSQL, pgvector, n8n
+
+## What you'll find here
+
+- Robotics implementations
+- Simulation experiments
+- Algorithms and mathematical foundations
+- ROS 2 projects
+- Debugging and failure analysis
+- Research reproductions
+- Robotics + AI experiments
+- Engineering tools and automation
+
+## Connect
+
+- X: [@EngDiloko](https://x.com/EngDiloko)
+
+More public work will be added as projects reach a useful level of maturity.
 
 ---
 
-Let's connect and make machines smarter and life easier! 🚀  
-Feel free to reach out for collaboration, mentoring, or just to chat about robots and AI.
+> **Build it. Test it. Understand it. Document it.**
